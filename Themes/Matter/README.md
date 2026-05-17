@@ -1,4 +1,4 @@
-# Matter theme for Windows 11 Taskbar Styler
+# Matter theme for Windows 10 Taskbar Styler
 
 **Author**: [ZoraizLajwer](https://github.com/ZoraizLajwer)
 
@@ -18,7 +18,7 @@ Small icon next to the weather icon is not part of the theme; it's a separate **
 [Spotibar](https://github.com/ZoraizLajwer/spotibar).
 
 ## Better to Know
-- Theme is designed on Windows 11 - 23H2
+- Theme is designed on Windows 10 - 23H2
 - Compatible with both light and dark mode
 - Install the [Tektur](https://fonts.google.com/specimen/Tektur) font from Google Fonts (required for clock customization)
 
